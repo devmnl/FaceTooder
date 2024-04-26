@@ -23,7 +23,7 @@ document.getElementById('buscar').addEventListener('click', function() {
             'setor': 'Colagem',
             'funcao': 'Clichêista',
             'nivel' : 'Diamante&#x1F48E;',
-            'foto': 'img/luisimg.jpeg',
+            'foto': 'img/luisimg.jpg',
             'apelido': 'Lebrinho&#x1F430;'
         },
         'manoel:1234': {
