@@ -23,6 +23,12 @@ h1 {
     text-align: center;
 }
 
+#imagem {
+    display:block;
+    margin:auto;
+    text-align:center;
+}
+
 section {
     background: rgb(255, 255, 255);
     border-radius: 10px;
